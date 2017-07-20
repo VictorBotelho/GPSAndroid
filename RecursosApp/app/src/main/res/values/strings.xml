@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RecursosApp</string>
+    <string name="permission_gps_rationale">Permite o acesso ao GPS ?</string>
+    <string name="button_allow">Aceitar</string>
+    <string name="button_deny">Negar</string>
+    <string name="permission_gps_denied">Não foi concedida a permissão para o GPS.</string>
+    <string name="permission_gps_neverask">GPS bloqueado. Vá em configurações do Android para habilitar.</string>
+</resources>
